@@ -214,6 +214,11 @@ section.download .badges .badge-link {
   margin-bottom: 25px;
 }
 
+section.download .qr-code {
+  display: block;
+  margin-bottom: 25px;
+}
+
 section.download .badges .badge-link:last-child {
   margin-bottom: 0;
 }
